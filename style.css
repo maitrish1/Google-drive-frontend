@@ -54,13 +54,21 @@
     background-color: rgb(233, 227, 255);
     height: 8vh;
   }
-  .searchIcon, .sliderIcon{
+  .fa-search{
      color: rgb(114, 114, 114);
       width: 8%;
       display: flex;
       justify-content: center;
       align-items: center;
       font-size: 1.2em;
+  }
+  .fa-sliders-h{
+    color: rgb(114, 114, 114);
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
   }
   /* .sliderIcon{
       width: 5%;
